@@ -97,3 +97,7 @@ node_modules/
 *.sql
 *.sqlite
 
+.idea/deployment.xml
+.idea/deployment.xml
+.idea/php.xml
+.idea/webServers.xml
